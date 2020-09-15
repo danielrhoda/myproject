@@ -9,3 +9,10 @@ editor_options:
 ---
 
 Welcome to my research website.
+
+```{r}
+a <- lm(cars$speed~cars$dist)
+summary(a)
+plot(cars$speed~cars$dist)
+```
+
