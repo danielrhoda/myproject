@@ -14,3 +14,4 @@ Welcome to my research website!
 
 * [Teeth Growth Analysis](teeth.html)
 
+* [Link to Duhman's Website!](https://duhmanm.github.io/Website/)
